@@ -5,7 +5,7 @@ Script ini akan menginstal dan menjalankan node Nexus Network secara otomatis di
 ## Cara pakai
 
 ```bash
-git clone https://github.com/USERNAME/nexus-node-setup.git
+https://github.com/retrunv0id/nexus-auto-cli.git
 cd nexus-node-setup
 chmod +x setup-nexus.sh
 ./setup-nexus.sh
